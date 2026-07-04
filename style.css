@@ -525,3 +525,18 @@ footer a:hover{
 .carrito {
     color: white;
 }
+body{
+    color: white;
+}
+
+h1, h2, h3, p, a, span, label{
+    color: white;
+}
+
+button{
+    color: white;
+}
+
+#finalizar{
+    color: white;
+}
